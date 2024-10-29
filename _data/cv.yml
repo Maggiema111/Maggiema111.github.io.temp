@@ -2,64 +2,94 @@
   type: map
   contents:
     - name: Full Name
-      value: Maggie Ma
+      value: Yingying Maggie Ma
     - name: Date of Birth
       value: 14th March 2006
     - name: Languages
-      value: English, Chinese
+      value: English, Chinese, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: High School Student
+      institution: Beijing Haidian Kaiwen Academy, China
+      year: 2021-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - AP courses taken in 2024: AP Biology (5), AP Calculus BC(5), AP Environmental Science(4), AP Macroeconomics(5), AP Physics 1(5), AP Physics 2(5), AP Physics C Mechanics(5), AP Statistics(5), AP Chemistry(5), AP Microeconomics(5).
+        - Currently taking: AP Art History, AP Computer Science A, AP English Language & Composition, AP Physics C - Electricity & Magnetism, AP United States History, AP German.
+        - ACT: 36/36
+        - title: Student on High Honor Roll.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Recognized for a 4.0+ GPA.
+            # - Sub-description 2.
+    - title: Pre-College Summer Program
+      institution: Harvard University, The USA
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - TODO Description 1.
+        - TODO Description 2.
+    - title: Summer High School Chemistry Research Academy
+      institution: University of Pennsylvania, The USA
+      year: 2024
+      description:
+        - TODO Description 1.
+        - TODO Description 2.
 
-- title: Experience
+- title: Research and Publications
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: The Relationship between Late Devonian Environmental Evolution and Organic Matter Enrichment
+      institution: 2024 International Conference on Environmental Science and Sustainable Development (ESSD 2024)
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Accepted by the 2024 International Conference on Environmental Science and Sustainable Development (ESSD 2024)
+        - Revealed the impact of climatic shifts and ocean chemistry on organic matter preservation.
+        - Contributed insights into ancient environmental conditions and their role in mass extinctions.
+
+    - title: Advancing Disaster Management through Remote Sensing--Applications, Challenges, and Future Prospects # TODO :
+      institution: EnviroSummit--Discussing Environmental Sciences
+      year: 20xx
+      description: 
+        - Accepted by EnviroSummit--Discussing Environmental Sciences.
+        - Employed handheld 3D laser scanners to collect detailed spatial data of cave systems, utilizing non-contact, automated, and accurate measurement techniques.
+        - Conducted point cloud preprocessing to enhance data quality, involving noise removal, multi-view alignment, data simplification, and surface reconstruction.
+        - Used multiple software tools for point cloud modeling, including Autodesk ReCap for initial processing, Cyclone 3DR for surface modeling, and 3ds Max for final model refinement and realistic visualization.
+
+    - title: Iron Oxide Nanofiber Catalysts for Organic Pollutant Degradation
+      institution: Shing-Tung Yau High School Science Award
+      year: 20xx
+      description: 
+        - Synthesized iron oxide nanofibers using electrospinning and calcination techniques.
+        - Demonstrated a significant improvement in the degradation of organic pollutants such as methylene blue and rhodamine B.
+        - Contributed to the advancement of catalytic materials for environmental remediation, especially in wastewater treatment.
+
+    - title: Changes of Photosynthesis Efficiency during the Process of Modern Maize Breeding
+      institution: ISAEB 2024
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Accepted by 2024 International Symposium on Agricultural Engineering and Biology (ISAEB 2024).
+        - Addressed global food supply challenges by focusing on improving maize's photosynthetic efficiency, a crucial factor in crop yield.
+        - Demonstrated significant increases in efficiency metrics with age, guiding the development of high-efficiency photosynthetic maize varieties.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Geological Features of Geographical Biomes and Their Environmental Impact
+      institution: ICAPM 2024
+      year: 2024
       description:
+        - Accepted by 2024 International Conference on Innovations in Applied Mathematics, Physics and Astronomy.
+        - Investigated the impact of geological processes on biome structure and biodiversity, including tropical rainforests and deserts.
+        - Demonstrated the significance of bedrock types, soil formation, and hydrogeological features in ecosystem dynamics.
+        - Provided insights for the formulation of conservation strategies that account for geological and biological factors.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Atmospheric Circulation on Other Planets: Venus, Mars, Jupiter
+      institution: Scheduled for TNS
+      year: 20xx
+      description:
+        - Scheduled to be published in Theoretical and Natural Science (TNS) (Print ISSN 2753-8818) and submitted for indexing to CPCI, Crossref, CNKI, Google Scholar, and other databases. 
+        - Conducted a comparative analysis of atmospheric circulation on Venus, Mars, and Jupiter.
+        - Examined how unique planetary characteristics influence atmospheric dynamics.
+        - Highlighted the diverse behaviors, from Venus's super-rotating atmosphere to Jupiter's powerful storms.
+        - Provided insights into planetary climate systems, offering implications for the understanding of exoplanet atmospheres.
+
 
 - title: Honors and Awards
   type: time_table
