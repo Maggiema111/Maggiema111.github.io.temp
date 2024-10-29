@@ -226,22 +226,50 @@
       items:
         - Global Bronze Award, Top 35%
 
-- title: Academic Interests
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: SKILLS AND HOBBIES
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+- title: Hobbies
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Taekwondo
       items:
-        - Description 1.
-        - Description 2.
+        - Over 10 years of training; currently holding a Black Belt; awarded a bronze medal in the Women's 55kg category at the Beijing Sports Assembly in 2023, and secured third place at the "Baxi Cup" Beijing Youth Taekwondo Grand Prix in 2023.
 
-- title: SKILLS AND HOBBIES
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Swimming
+      items:
+        - Over 12 years of experience with weekly anaerobic training; achieved the second place in 100m Butterfly and third in 50m Freestyle at the 2024 Beijing Youth Swimming Challenge.
+
+    - title: Golf
+      items:
+        - Engaged in weekly practice for 3 years, with a focus on establishing it as a lifelong commitment to the sport.
+
+    - title: Fencing
+      items:
+        - Underwent professional training for 6 years; secured national and citywide gold medals.
+
+    - title: Piano
+      items:
+        - Regularly played piano for 14 years, achieved ABRSM Grade 8 in Performance, Grade 5 in Theory; performed in school concerts and citywide events.
+
+    - title: Double Bass
+      items:
+        - Played double bass for 6 years.
+
 
 # - title: Honors and Awards
 #   type: time_table
