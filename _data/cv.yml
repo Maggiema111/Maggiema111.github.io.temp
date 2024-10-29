@@ -17,7 +17,7 @@
       description:
         - AP courses taken in 2024<span>:</span>AP Biology (5), AP Calculus BC(5), AP Environmental Science(4), AP Macroeconomics(5), AP Physics 1(5), AP Physics 2(5), AP Physics C Mechanics(5), AP Statistics(5), AP Chemistry(5), AP Microeconomics(5).
         - Currently taking<span>:</span> AP Art History--AP Computer Science A, AP English Language & Composition, AP Physics C - Electricity & Magnetism, AP United States History, AP German.
-        - ACT<span>:</span>36/36
+        - ACT<span>:</span> 36/36
         - title: Student on High Honor Roll.
           contents:
             - Recognized for a 4.0+ GPA.
@@ -153,80 +153,106 @@
       description:
         - Competed on behalf of the school for inter-school basketball games.
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: S.-T. Yau High School Science Award<span>:</span> Chemistry
+      year: Grade 12
+      items:
+        - Semi-Finalists in Northern Competition Area
+
+    - title: John Locke Institute 2024 Global Essay Prize
+      year: Grade 11
+      items:
+        - Very High Commendation for Philosophy Category
+        - Shortlisted, only 16.9% of candidates selected
+
+    - title: BioOlympiad Initiative USA-China 2024 (USABO)
+      year: Grade 11
+      items:
+        - National Silver
+
+    - title: AAPT Physics Bowl Contest
+      year: Grade 11
+      items:
+        - National Gold and Regional Top 10
+        - Scored 31/xxx
+
+    - title: Euclid Contest
+      year: Grade 11
+      items:
+        - Ranked in the top twenty-five percent of contestants
+        - Certificate of Distinction, Score<span>:</span> 79/100
+
+    - title: British Astronomy and Astrophysics Olympiad (BAAO Senior) 2023-2024
+      year: Grade 11
+      items:
+        - Global Silver Award, Score<span>:</span> 37/xxx
+
+    - title: UK Chemistry Olympiad (UKChO)
+      year: Grade 11
+      items:
+        - Global Gold Award, Score<span>:</span> 60/80
+
+    - title: HOSA-Future Health Professionals
+      year: Grade 10
+      items:
+        - Global Silver Award
+
+    - title: Canadian Chemistry Contest (CCC)
+      year: Grade 11
+      items:
+        - National Gold Award
+        - Global Special Merit Award, Score<span>:</span> 22/25
+
+    - title: Canadian Chemistry Olympiad
+      year: 2023
+      items:
+        - Global Bronze Award
+        - National Silver Award, Top 20%
+
+    - title: Global Future Space Scholars Meet (GFSSM)
+      year: Grade 9 summer
+      items:
+        - Global Silver Award
+
+    - title: China Thinks Big
+      year: Grade 9
+      items:
+        - Global Brown Award
+
+    - title: Canadian Chemistry Olympiad
+      year: Grade 9
+      items:
+        - Global Bronze Award, Top 35%
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: SKILLS AND HOBBIES
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
 # - title: Honors and Awards
 #   type: time_table
 #   contents:
-#     - title: S.-T. Yau High School Science Award: Chemistry
-#       year: Grade 12
-#       items:
-#         - Semi-Finalists in Northern Competition Area
-
-#     - title: John Locke Institute 2024 Global Essay Prize
-#       year: Grade 11
-#       items:
-#         - Very High Commendation for Philosophy Category
-#         - Shortlisted, only 16.9% of candidates selected
-
-#     - title: BioOlympiad Initiative USA-China 2024 (USABO)
-#       year: Grade 11
-#       items:
-#         - National Silver
-
-#     - title: AAPT Physics Bowl Contest
-#       year: Grade 11
-#       items:
-#         - National Gold and Regional Top 10
-#         - Scored 31/xxx
-
-#     - title: Euclid Contest
-#       year: Grade 11
-#       items:
-#         - Ranked in the top twenty-five percent of contestants
-#         - Certificate of Distinction, Score: 79/100
-
-#     - title: British Astronomy and Astrophysics Olympiad (BAAO Senior) 2023-2024
-#       year: Grade 11
-#       items:
-#         - Global Silver Award, Score: 37/xxx
-
-#     - title: UK Chemistry Olympiad (UKChO)
-#       year: Grade 11
-#       items:
-#         - Global Gold Award, Score: 60/80
-
-#     - title: HOSA-Future Health Professionals
-#       year: Grade 10
-#       items:
-#         - Global Silver Award
-
-#     - title: Canadian Chemistry Contest (CCC)
-#       year: Grade 11
-#       items:
-#         - National Gold Award
-#         - Global Special Merit Award, Score: 22/25
-
-#     - title: Canadian Chemistry Olympiad
-#       year: 2023
-#       items:
-#         - Global Bronze Award
-#         - National Silver Award, Top 20%
-
-#     - title: Global Future Space Scholars Meet (GFSSM)
-#       year: Grade 9 summer
-#       items:
-#         - Global Silver Award
-
-#     - title: China Thinks Big
-#       year: Grade 9
-#       items:
-#         - Global Brown Award
-
-#     - title: Canadian Chemistry Olympiad
-#       year: Grade 9
-#       items:
-#         - Global Bronze Award, Top 35%
-
-
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
 # - title: Academic Interests
 #   type: nested_list
@@ -244,31 +270,3 @@
 #   type: list
 #   contents:
 #     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
-# # - title: Honors and Awards
-# #   type: time_table
-# #   contents:
-# #     - year: 1921
-# #       items: 
-# #         - Nobel Prize in Physics 
-# #         - Matteucci Medal
-# #     - year: 2029
-# #       items: 
-# #         - Max Planck Medal
-
-# # - title: Academic Interests
-# #   type: nested_list
-# #   contents:
-# #     - title: Topic 1.
-# #       items: 
-# #         - Description 1.
-# #         - Description 2.
-# #     - title: Topic 2.
-# #       items:
-# #         - Description 1.
-# #         - Description 2.
-
-# # - title: Other Interests
-# #   type: list
-# #   contents:
-# #     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
