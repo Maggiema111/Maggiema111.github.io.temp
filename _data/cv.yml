@@ -16,8 +16,7 @@
       year: 2021-2025
       description:
         - AP courses taken in 2024--AP Biology (5), AP Calculus BC(5), AP Environmental Science(4), AP Macroeconomics(5), AP Physics 1(5), AP Physics 2(5), AP Physics C Mechanics(5), AP Statistics(5), AP Chemistry(5), AP Microeconomics(5).
-        - Currently taking: 
-        AP Art History--AP Computer Science A, AP English Language & Composition, AP Physics C - Electricity & Magnetism, AP United States History, AP German.
+        - <p>Currently taking: AP Art History--AP Computer Science A, AP English Language & Composition, AP Physics C - Electricity & Magnetism, AP United States History, AP German.</p>
         - ACT--36/36
         - title: Student on High Honor Roll.
           contents:
@@ -92,16 +91,66 @@
         - Provided insights into planetary climate systems, offering implications for the understanding of exoplanet atmospheres.
 
 
-- title: Honors and Awards
+- title: Extracurricular Activities and Projects 
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Independent Researcher/Learner 
+      institution: Institute of Geophysics, Chinese Academy of Sciences
+      year: Grade 10-12
+      description:
+        - Conducted research on organic matter enrichment during the Late Devonian period; analyzed geochemical proxies to uncover connections between environmental changes and mass extinction.
+    - title: Leader, Research Project Late Devonian Organic Matter Enrichment
+      # institution: Institute of Geophysics, Chinese Academy of Sciences
+      year: Grade 10-12
+      description:
+        - Directed a 3-D cave mapping project in China; utilized laser scanning and data processing to generate accurate models in challenging underground settings.
+    - title: Independent Researcher/Learner/Internship
+      institution: Chinese Academy of Agricultural Sciences, Hebei Agricultural Base
+      year: Grade 9-11
+      description:
+        - Performed on-site investigations into maize photosynthetic efficiency. The results demonstrated enhancements in key efficiency indices across breeding generations.
+    - title: Yellow House Captain, Beijing Haidian Kaiwen Academy Student Council
+      # institution: Chinese Academy of Agricultural Sciences, Hebei Agricultural Base
+      year: Grade 11-12
+      description:
+        - Organized events for 500+ participants; supervised a team of 20 for sports days and talent shows, fostering unity and spirit within the school community.
+    - title: International Genetically Engineered Machine (IGEM)
+      # institution: Chinese Academy of Agricultural Sciences, Hebei Agricultural Base
+      year: Grade 11-12
+      description:
+        - Developed a plasmid for E. coli to repair esophageal cells, potentially lowering the incidence of esophageal cancer; results were detailedly published on a project website.
+    - title: Creator & Developer, Chinese Herbal Medicine App
+      # institution: Chinese Academy of Agricultural Sciences, Hebei Agricultural Base
+      year: Grade 9-12
+      description:
+        - Developed and published Chinese herbal medicine app "ShenNongPu" on Apple App Store, promoting traditional remedies to improve modern health and wellness.
+        - Established purchasing options for common Chinese herbal medicines referenced by the Compendium of Materia Medica.
+        - Generate health-related advices for seasonal preventative measures based on traditional Chinese medicine texts such as <i>The Yellow Emperor's Classic of Internal Medicine</i>.
+    - title: Fencer, Local fencing club athlete, KWA Fencing Team Founder
+      # institution: Chinese Academy of Agricultural Sciences, Hebei Agricultural Base
+      year: Grade 9-12
+      description:
+        - Trained professionally, achieved national and citywide gold medals, and founded school fencing team.
+    - title: Piano, Double Bass Player, KWA Orchestra, KWA Bunbun Band, Jazz band
+      year: Grade 9-12
+      description:
+        - Played piano for 14 years, achieved ABRSM Grade 8 in Performance and Grade 5 in Theory, participating in school concerts, and performed in citywide concert events.
+    - title: Project leader, Upenn Chemistry Academy
+      year: Grade 11
+      description:
+        - Developed a non-Newtonian toilet liquid to enhance restroom hygiene and comfort by minimizing splash back; discovered eco-friendly solutions.
+    - title: Self-initiated Non-profit Websites
+      # year: Grade 11
+      description:
+        - Launched websites on bullet recycling and earthquake safety, reaching 10,000 views, laying the foundation for future NPO initiatives in university.
+    - title: School Badminton Team Player
+      year: Grade 9-11
+      description:
+        - Competed on behalf of the school.
+        - Achieved 5th place in Mixed Doubles at the 2023 Zong Yu Cup Beijing International Schools Competition.
+    
+        
+
 
 - title: Academic Interests
   type: nested_list
@@ -119,3 +168,31 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
