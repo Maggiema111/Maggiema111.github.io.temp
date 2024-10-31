@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /ChronoSpace/
-title: ChronoSpace
-description: ChronoSpace
+permalink: /SportStudio/
+title: SportStudio
+description: SportStudio
 nav: true
 nav_order: 2
 redirect_from: 
-  - /ChronoSpace.html
+  - /SportStudio.html
 ---
 Temp TODO
 <!-- My research interests broadly revolve arounds mathematical algorithms. In particular, I am interested in *Machine Learning*, *Scientific Computing* and *Numerical algorithms* with a focus on *Numerical Linear Algebra*.
