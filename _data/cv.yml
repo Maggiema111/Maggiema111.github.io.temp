@@ -51,18 +51,9 @@
         - Revealed the impact of climatic shifts and ocean chemistry on organic matter preservation.
         - Contributed insights into ancient environmental conditions and their role in mass extinctions.
 
-    - title: Advancing Disaster Management through Remote Sensing--Applications, Challenges, and Future Prospects # TODO :
-      institution: EnviroSummit--Discussing Environmental Sciences
-      year: 20xx
-      description: 
-        - Accepted by EnviroSummit--Discussing Environmental Sciences.
-        - Employed handheld 3D laser scanners to collect detailed spatial data of cave systems, utilizing non-contact, automated, and accurate measurement techniques.
-        - Conducted point cloud preprocessing to enhance data quality, involving noise removal, multi-view alignment, data simplification, and surface reconstruction.
-        - Used multiple software tools for point cloud modeling, including Autodesk ReCap for initial processing, Cyclone 3DR for surface modeling, and 3ds Max for final model refinement and realistic visualization.
-
     - title: Iron Oxide Nanofiber Catalysts for Organic Pollutant Degradation
       institution: Shing-Tung Yau High School Science Award
-      year: 20xx
+      year: 2024
       description: 
         - Synthesized iron oxide nanofibers using electrospinning and calcination techniques.
         - Demonstrated a significant improvement in the degradation of organic pollutants such as methylene blue and rhodamine B.
@@ -85,9 +76,18 @@
         - Demonstrated the significance of bedrock types, soil formation, and hydrogeological features in ecosystem dynamics.
         - Provided insights for the formulation of conservation strategies that account for geological and biological factors.
 
+    - title: Advancing Disaster Management through Remote Sensing--Applications, Challenges, and Future Prospects # TODO :
+      institution: EnviroSummit--Discussing Environmental Sciences
+      year: 2024
+      description: 
+        - Accepted by EnviroSummit--Discussing Environmental Sciences.
+        - Employed handheld 3D laser scanners to collect detailed spatial data of cave systems, utilizing non-contact, automated, and accurate measurement techniques.
+        - Conducted point cloud preprocessing to enhance data quality, involving noise removal, multi-view alignment, data simplification, and surface reconstruction.
+        - Used multiple software tools for point cloud modeling, including Autodesk ReCap for initial processing, Cyclone 3DR for surface modeling, and 3ds Max for final model refinement and realistic visualization.
+
     - title: Atmospheric Circulation on Other Planets--Venus, Mars, Jupiter
       institution: Scheduled for TNS
-      year: 20xx
+      year: 2024
       description:
         - Scheduled to be published in Theoretical and Natural Science (TNS) (Print ISSN 2753-8818) and submitted for indexing to CPCI, Crossref, CNKI, Google Scholar, and other databases. 
         - Conducted a comparative analysis of atmospheric circulation on Venus, Mars, and Jupiter.
