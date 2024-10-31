@@ -1,15 +1,15 @@
 ---
 layout: page
-permalink: /research/
-title: research
-description: research interests
+permalink: /ChronoSpace/
+title: ChronoSpace
+description: ChronoSpace
 nav: true
 nav_order: 2
 redirect_from: 
-  - /research.html
+  - /ChronoSpace.html
 ---
-
-My research interests broadly revolve arounds mathematical algorithms. In particular, I am interested in *Machine Learning*, *Scientific Computing* and *Numerical algorithms* with a focus on *Numerical Linear Algebra*.
+Temp TODO
+<!-- My research interests broadly revolve arounds mathematical algorithms. In particular, I am interested in *Machine Learning*, *Scientific Computing* and *Numerical algorithms* with a focus on *Numerical Linear Algebra*.
 
 You can find out about my work on [my Google scholar page]().
 
@@ -38,4 +38,4 @@ Discontinuous Galerkin methods are a promising class of methods for solving PDEs
 
 Machine learning methods have been succesfully applied in computer vision, natural language processing and many other applications. Recently, machine learning approaches have started to show up in many scientific computing applications. In this project, we approached the problem of dimensionality reduction of fluid phenomena using neural networks. The central goal in this setting is to infer the result of a new fluid simulation, corresponding to a new set of parameters, given some reference simulations and parameters, without running the actual simulation, which is too costly. To do so, we model the outcome of the fluid simulation by using a deformation field, which distorts the reference solution into the new solution. These distortion fields are then modelled using neural networks. You can read more about our work in [our paper](https://openreview.net/pdf?id=HyeGBj09Fm).
 
-[![Check out the video](http://img.youtube.com/vi/O8hvg0-buLE/0.jpg)](http://www.youtube.com/watch?v=O8hvg0-buLE)   -->
+[![Check out the video](http://img.youtube.com/vi/O8hvg0-buLE/0.jpg)](http://www.youtube.com/watch?v=O8hvg0-buLE)   --> -->
