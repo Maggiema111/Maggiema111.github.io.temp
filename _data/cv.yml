@@ -26,14 +26,19 @@
       institution: Harvard University, The USA
       year: 2024
       description:
-        - TODO Description 1.
-        - TODO Description 2.
+        - title: SSCI P-16000
+          contents:
+            - How Science Happens<span>:</span> Doing the Job of Science across Disciplines
+        - title: BIOS P-13503
+          contents:
+            - The Neurobiology of Motivation<span>:</span> An Introduction to Behavioral Neuroscience
+            # - Sub-description 2.
     - title: Summer High School Chemistry Research Academy
       institution: University of Pennsylvania, The USA
       year: 2024
-      description:
-        - TODO Description 1.
-        - TODO Description 2.
+      # description:
+        # - TODO Description 1.
+        # - TODO Description 2.
 
 - title: Research and Publications
   type: time_table
