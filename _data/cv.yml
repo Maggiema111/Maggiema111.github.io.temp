@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Yingying Maggie Ma
+      value: Yingying Ma
     - name: Date of Birth
-      value: 14th March 2006
+      value: 1st November 2006
     - name: Languages
-      value: English, Chinese, German
+      value: Chinese, English, German
 
 - title: Education
   type: time_table
