@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='https://research.nvidia.com/person/boris-bonev'>NVIDIA Research</a>. Zurich, Switzerland
-subtitle: <a href='https://maggiema111.github.io'>Yingying Ma</a>. Beijing, China
+subtitle: <a href='https://maggiema111.github.io'>Yingying Ma/Test for building</a>. Beijing, China
 
 profile:
 #   align: right
@@ -20,7 +20,7 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: false # includes social icons at the bottom of the page
 ---
-
+bio temp todo
 <!-- Welcome! I am a ML/AI Engineer at NVIDIA working on Machine Learning and Numerical Algorithms. The prospect of applying mathematics, algorithms and physics to tackle the great challenges facing us today is what gets me out of bed everyday.
 
 I earned my [Ph.D. in Applied Mathematics](/files/thesis_compressed.pdf) from [EPFL](https://www.epfl.ch) under the supervision of [Prof. Jan S. Hesthaven](https://www.epfl.ch/labs/mcss/members/hesthaven/). Prior to that, I have obtained degrees in both Physics and in Aerospace Engineering. My [academic research](/research) focuses on computational methods for scientific applications. Check out [publications](/publications) and [software](/software) for more.
