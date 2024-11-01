@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /chrono-space/
-title: Chrono Space
-description: Chrono Space
+title: Yingying's ChronoSpace
+description: Unearthing Time Narratives
 nav: true
 nav_order: 2
 redirect_from: 
