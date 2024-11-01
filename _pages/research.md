@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /ChronoSpace/
+permalink: /research/
 title: ChronoSpace
 description: ChronoSpace
 nav: true
 nav_order: 2
 redirect_from: 
-  - /ChronoSpace.html
+  - /research.html
 ---
 Temp TODO
