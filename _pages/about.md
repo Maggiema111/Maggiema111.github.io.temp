@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='https://research.nvidia.com/person/boris-bonev'>NVIDIA Research</a>. Zurich, Switzerland
-subtitle: <a href='https://maggiema111.github.io'>Yingying Ma/</a>. Beijing, China
+subtitle: <a href='https://maggiema111.github.io'>Yingying Ma</a>. Beijing, China
 
 profile:
 #   align: right
