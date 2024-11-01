@@ -8,4 +8,4 @@ nav_order: 2
 redirect_from: 
   - /chrono-space.html 
 ---
-<a href='https://youtu.be/Dxq6gJi94us'>my ChronoSpace video/</a>
+<a href='https://youtu.be/Dxq6gJi94us'>my ChronoSpace video</a>
